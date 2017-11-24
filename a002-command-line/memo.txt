@@ -1,0 +1,30 @@
+备忘录
+
+node命令行
+
+
+（1）node命令行用法
+
+node [options] [ -e script | script.js ] [arguments]      
+
+------[options]     node命令选项
+------[ -e script | script.js ]    要执行的node文件
+------[arguments]    node命令选项参数
+
+例：node debug script.js [arguments] 
+
+
+
+
+（2）常用node命令
+
+node -h or --help  查看所有node命令
+
+node -v or --version  查看node版本
+
+node -c or --check script.js   检测node文件的语法，不会启动应用
+
+node --v8-options 
+
+
+
